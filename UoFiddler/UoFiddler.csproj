@@ -7,9 +7,9 @@
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <AssemblyTitle>UoFiddler</AssemblyTitle>
     <Product>UoFiddler</Product>
-    <Copyright>Copyright © 2019</Copyright>
-    <AssemblyVersion>4.9.1</AssemblyVersion>
-    <FileVersion>4.9.1</FileVersion>
+    <Copyright>Copyright © 2020</Copyright>
+    <AssemblyVersion>4.9.3</AssemblyVersion>
+    <FileVersion>4.9.3</FileVersion>
     <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
